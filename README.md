@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Souleyman 👋</h1>
-  <p><strong>Software Engineer • Backend & Cloud Architecture</strong></p>
+  <p><strong>Software Engineer • Backend </strong></p>
 
   <p>
     <a href="https://linkedin.com/in/souleyman-saleh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,7 +18,7 @@
 * 🔭 **Focus actuel :** microservices haute performance, architectures événementielles et orchestration de conteneurs.
 * 🎓 **Formation :** Master Informatique (Génie Logiciel).
 * ⚙️ **Méthodes :** Clean Architecture, TDD, GitOps, Automatisation.
-* 💬 **Échangeons sur :** les patterns distribués, le DevOps ou les échecs ♟️.
+* 💬 **Échangeons sur :**le DevOps ou les échecs ♟️.
 
 ---
 
@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
 </p>
 
 <p align="left">
@@ -47,6 +49,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
@@ -54,12 +57,12 @@
 ### 📊 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souleyman-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souleyman-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souleyman-dev&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
 </div>
