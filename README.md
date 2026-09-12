@@ -18,7 +18,7 @@
 * 🔭 **Focus actuel :** microservices haute performance, architectures événementielles et orchestration de conteneurs.
 * 🎓 **Formation :** Master Informatique (Génie Logiciel).
 * ⚙️ **Méthodes :** Clean Architecture, TDD, GitOps, Automatisation.
-* 💬 **Échangeons sur :**le DevOps ou les échecs ♟️.
+* 💬 **Échangeons sur :** le DevOps ou les échecs ♟️.
 
 ---
 
