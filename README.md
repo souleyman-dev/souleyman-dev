@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Souleyman 👋</h1>
-  <p><strong>Software Engineer • Backend </strong></p>
+  <p><strong>Software Engineer • Devops </strong></p>
 
   <p>
     <a href="https://linkedin.com/in/souleyman-saleh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 À propos
 
-Étudiant en **Master 2 Génie de l'Informatique Logicielle**, je conçois et déploie des architectures backend résilientes et distribuées. Passionné par les systèmes scalables, les microservices et l'automatisation CI/CD.
+Étudiant en **Master 2 Génie de l'Informatique Logicielle**, je recherche une alternance à partir de septembre 2026. Passionné par les systèmes scalables, les microservices et l'automatisation CI/CD.
 
 * 🔭 **Focus actuel :** microservices haute performance, architectures événementielles et orchestration de conteneurs.
 * 🎓 **Formation :** Master Informatique (Génie Logiciel).
